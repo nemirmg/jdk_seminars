@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        Studio studio = new Studio(3, 1);
+        Studio studio = new Studio(5, 2);
         System.out.println(studio);
     }
 
